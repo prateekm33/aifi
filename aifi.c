@@ -17,5 +17,5 @@ int main (int argc, char **argv)
 
 int aifi(int n)
 {
-  return n*n;
+  return n;
 }
